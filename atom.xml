@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://https://cxny.github.io/chinese-wenyan/</id>
+    <id>https://https://chinese-wenyan.github.io</id>
     <title>文言字词积累</title>
-    <updated>2020-04-04T00:27:59.795Z</updated>
+    <updated>2020-04-04T02:17:49.144Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://https://cxny.github.io/chinese-wenyan/"/>
-    <link rel="self" href="https://https://cxny.github.io/chinese-wenyan/atom.xml"/>
+    <link rel="alternate" href="https://https://chinese-wenyan.github.io"/>
+    <link rel="self" href="https://https://chinese-wenyan.github.io/atom.xml"/>
     <subtitle>温故而知新</subtitle>
-    <logo>https://https://cxny.github.io/chinese-wenyan/images/avatar.png</logo>
-    <icon>https://https://cxny.github.io/chinese-wenyan/favicon.ico</icon>
+    <logo>https://https://chinese-wenyan.github.io/images/avatar.png</logo>
+    <icon>https://https://chinese-wenyan.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, 文言字词积累</rights>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
-        <id>https://https://cxny.github.io/chinese-wenyan/post/hello-gridea/</id>
-        <link href="https://https://cxny.github.io/chinese-wenyan/post/hello-gridea/">
+        <id>https://https://chinese-wenyan.github.io/post/hello-gridea/</id>
+        <link href="https://https://chinese-wenyan.github.io/post/hello-gridea/">
         </link>
         <updated>2018-12-11T16:00:00.000Z</updated>
         <summary type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
