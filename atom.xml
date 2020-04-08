@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://chinese-wenyan.github.io</id>
     <title>文言字词积累</title>
-    <updated>2020-04-08T07:19:38.413Z</updated>
+    <updated>2020-04-08T13:38:43.957Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://chinese-wenyan.github.io"/>
     <link rel="self" href="https://chinese-wenyan.github.io/atom.xml"/>
@@ -11,11 +11,63 @@
     <icon>https://chinese-wenyan.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, 文言字词积累</rights>
     <entry>
+        <title type="html"><![CDATA[之]]></title>
+        <id>https://chinese-wenyan.github.io/post/zhi/</id>
+        <link href="https://chinese-wenyan.github.io/post/zhi/">
+        </link>
+        <updated>2020-04-08T13:12:11.000Z</updated>
+        <summary type="html"><![CDATA[<p>文言虚词，极常考且易错</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>文言虚词，极常考且易错</p>
+<!-- more -->
+<p><strong>考试频率:</strong><span class="katex"><span class="katex-mathml"><math><semantics><mrow><menclose mathbackground="orange"><mstyle mathcolor="red"><mtext>极常考</mtext></mstyle></menclose></mrow><annotation encoding="application/x-tex">\colorbox{orange}{\color{red}{极常考}}</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:1.2833299999999999em;vertical-align:-0.3em;"></span><span class="mord"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height:0.9833299999999998em;"><span style="top:-2.98333em;"><span class="pstrut" style="height:3.28333em;"></span><span class="stretchy colorbox" style="height:1.2833299999999999em;background-color:orange;"></span></span><span style="top:-3.28333em;"><span class="pstrut" style="height:3.28333em;"></span><span class="mord boxpad"><span class="mord" style="color:red;"><span class="mord cjk_fallback" style="color:red;">极</span><span class="mord cjk_fallback" style="color:red;">常</span><span class="mord cjk_fallback" style="color:red;">考</span></span></span></span></span><span class="vlist-s">​</span></span><span class="vlist-r"><span class="vlist" style="height:0.3em;"><span></span></span></span></span></span></span></span></span></p>
+<ol>
+<li>v. 到，去</li>
+<li>第三人称代词
+<blockquote>
+<p>友人惭，下车引<strong>之</strong><br>
+——《陈太丘与友期行》</p>
+</blockquote>
+</li>
+<li>指示代词，这，此
+<blockquote>
+<p>皆是<strong>之</strong>类也<br>
+——《郁离子·粤人食芝》</p>
+</blockquote>
+</li>
+<li>⭐️助词，的，用于定语与中心语之间
+<blockquote>
+<p>然则天下<strong>之</strong>事<br>
+——《河中石兽》</p>
+</blockquote>
+</li>
+<li>⭐️位于<strong>主谓之间</strong>，取消句子独立性，<strong>取独</strong>
+<blockquote>
+<p>骨已尽矣，而两狼<strong>之</strong>并驱如故<br>
+——《狼》</p>
+</blockquote>
+</li>
+<li>协调音节，无义
+<blockquote>
+<p>久<strong>之</strong>，目似瞑，意暇甚<br>
+——《狼》</p>
+</blockquote>
+</li>
+<li>⭐️结构助词，疑问代词作宾句 或 否定句中，<strong>宾语前置</strong>标志，无义
+<blockquote>
+<p>孔子云：何陋<strong>之</strong>有？<br>
+——《陋室铭》</p>
+</blockquote>
+</li>
+</ol>
+]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[关于]]></title>
         <id>https://chinese-wenyan.github.io/post/about/</id>
         <link href="https://chinese-wenyan.github.io/post/about/">
         </link>
-        <updated>2019-01-25T11:09:48.000Z</updated>
+        <updated>2020-04-08T09:00:03.000Z</updated>
         <content type="html"><![CDATA[<blockquote>
 <p>欢迎来到我的小站呀，很高兴遇见你！🤝</p>
 </blockquote>
