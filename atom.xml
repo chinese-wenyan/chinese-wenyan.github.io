@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://chinese-wenyan.github.io</id>
     <title>文言字词积累</title>
-    <updated>2020-04-08T13:42:15.403Z</updated>
+    <updated>2020-04-14T07:10:12.869Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://chinese-wenyan.github.io"/>
     <link rel="self" href="https://chinese-wenyan.github.io/atom.xml"/>
@@ -20,7 +20,7 @@
 ]]></summary>
         <content type="html"><![CDATA[<p>文言虚词，极常考且易错</p>
 <!-- more -->
-<p><strong>考试频率:</strong><span class="katex"><span class="katex-mathml"><math><semantics><mrow><menclose mathbackground="orange"><mstyle mathcolor="red"><mtext>极常考</mtext></mstyle></menclose></mrow><annotation encoding="application/x-tex">\colorbox{orange}{\color{red}{极常考}}</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:1.2833299999999999em;vertical-align:-0.3em;"></span><span class="mord"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height:0.9833299999999998em;"><span style="top:-2.98333em;"><span class="pstrut" style="height:3.28333em;"></span><span class="stretchy colorbox" style="height:1.2833299999999999em;background-color:orange;"></span></span><span style="top:-3.28333em;"><span class="pstrut" style="height:3.28333em;"></span><span class="mord boxpad"><span class="mord" style="color:red;"><span class="mord cjk_fallback" style="color:red;">极</span><span class="mord cjk_fallback" style="color:red;">常</span><span class="mord cjk_fallback" style="color:red;">考</span></span></span></span></span><span class="vlist-s">​</span></span><span class="vlist-r"><span class="vlist" style="height:0.3em;"><span></span></span></span></span></span></span></span></span></p>
+<p><strong>考试频率:极常考</strong></p>
 <ol>
 <li>v. 到，去</li>
 <li>第三人称代词
@@ -47,7 +47,7 @@
 ——《狼》</p>
 </blockquote>
 </li>
-<li>协调音节，无义
+<li>助词，加强或补足语气，无义
 <blockquote>
 <p>久<strong>之</strong>，目似瞑，意暇甚<br>
 ——《狼》</p>
