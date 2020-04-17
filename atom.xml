@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://chinese-wenyan.github.io</id>
     <title>文言字词积累</title>
-    <updated>2020-04-17T06:19:31.565Z</updated>
+    <updated>2020-04-17T06:31:25.157Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://chinese-wenyan.github.io"/>
     <link rel="self" href="https://chinese-wenyan.github.io/atom.xml"/>
@@ -37,20 +37,42 @@
 <blockquote>
 <p>令一兵持烛于旁   ——《青琐高议·韩魏公大度》</p>
 </blockquote>
-<p>可以看出此句的状语“持烛”移到了动词的前面。<br>
+<p>可以看出此句的状语“持烛”移到了动词的前面<br>
 翻译时需要将状语塞回动词前面，就像这样：</p>
 <blockquote>
 <p>令一兵于旁持烛</p>
 </blockquote>
 <h2 id="2-状语类别与能否后置">2. 状语类别与能否后置</h2>
-<pre><code>· ❌频率副词
-· ❌表心理状态
-· ❌情态副词
-· ❌表伴随状态
-· ✔️表方式
-· ✔️表时间或地点
-· ❌表对象
-</code></pre>
+<p>· ❌频率副词<br>
+· ❌表心理状态<br>
+· ❌情态副词<br>
+· ❌表伴随状态<br>
+· ✔️表方式<br>
+· ✔️表时间或地点<br>
+· ❌表对象</p>
+<h1 id="part-2宾语前置提宾">Part 2.宾语前置，提宾</h1>
+<h2 id="1-何为提宾">1. 何为提宾？</h2>
+<p>顾名思义，就是把宾语放在谓语前面，如：</p>
+<blockquote>
+<p>而今安在哉？   ——《前赤壁赋》</p>
+</blockquote>
+<p>可以看出此句的宾语“安”移到了动词的前面<br>
+<em>注：此处为疑问代词作宾语</em><br>
+翻译时需要将宾语塞回动词后面，像这样：</p>
+<blockquote>
+<p>而今在安哉？</p>
+</blockquote>
+<h2 id="2-何时提宾">2. 何时提宾？</h2>
+<p>提宾句一般出现在<strong>否定句</strong>与<strong>疑问句</strong>中，<br>
+此处的宾语<strong>不一定要是动词的宾语</strong>！<br>
+e.g.</p>
+<blockquote>
+<p>何为？</p>
+</blockquote>
+<p>此处“为”作介词使用，同样出现了提宾。可改为：</p>
+<blockquote>
+<p>为何？</p>
+</blockquote>
 ]]></content>
     </entry>
     <entry>
@@ -66,7 +88,7 @@
 <p>考试频率：<strong>极常考</strong></p>
 <ol>
 <li>
-<p>介词   构成的介宾短语<strong>可后置</strong><br>
+<p>介词   构成的介宾短语<a href="https://chinese-wenyan.github.io/post/wen-yan-xian-xiang/"><strong>可后置</strong></a><br>
 1). 用，使用</p>
 <blockquote>
 <p><strong>以</strong>刀劈狼首，又数刀毙之。       ——《狼》</p>
