@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://chinese-wenyan.github.io</id>
     <title>文言字词积累</title>
-    <updated>2020-04-17T05:26:26.315Z</updated>
+    <updated>2020-04-17T06:19:31.565Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://chinese-wenyan.github.io"/>
     <link rel="self" href="https://chinese-wenyan.github.io/atom.xml"/>
@@ -10,6 +10,49 @@
     <logo>https://chinese-wenyan.github.io/images/avatar.png</logo>
     <icon>https://chinese-wenyan.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, 文言字词积累</rights>
+    <entry>
+        <title type="html"><![CDATA[文言现象]]></title>
+        <id>https://chinese-wenyan.github.io/post/wen-yan-xian-xiang/</id>
+        <link href="https://chinese-wenyan.github.io/post/wen-yan-xian-xiang/">
+        </link>
+        <updated>2020-04-17T05:27:23.000Z</updated>
+        <summary type="html"><![CDATA[<p>讲解状语后置、宾语前置等文言现象</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>讲解状语后置、宾语前置等文言现象</p>
+<!-- more -->
+<h1 id="part-0铺垫部分">Part 0.铺垫部分</h1>
+<p>句子结构（此以现汉为例，古汉语类似）<br>
+<strong>主语   谓语   宾语   定语   状语   补语</strong><br>
+<em>主、宾</em>为<strong>名词 或 名词性短语 或 代词</strong><br>
+<em>定语</em>修饰<strong>名词</strong><br>
+<em>状语</em>修饰<strong>动词</strong>且<strong>位于动词前</strong><br>
+<em>补语</em>修饰<strong>动词</strong>且<strong>位于动词后</strong><br>
+<em>谓语</em>为<strong>动词</strong>或<strong>形容词</strong></p>
+<blockquote>
+<p>总结构为<strong>定主状谓定宾补</strong></p>
+</blockquote>
+<h1 id="part-1状语后置状后">Part 1.状语后置，状后</h1>
+<h2 id="1-何为状后">1. 何为状后？</h2>
+<p>就是把状语放到动词后面，如：</p>
+<blockquote>
+<p>令一兵持烛于旁   ——《青琐高议·韩魏公大度》</p>
+</blockquote>
+<p>可以看出此句的状语“持烛”移到了动词的前面。<br>
+翻译时需要将状语塞回动词前面，就像这样：</p>
+<blockquote>
+<p>令一兵于旁持烛</p>
+</blockquote>
+<h2 id="2-状语类别与能否后置">2. 状语类别与能否后置</h2>
+<pre><code>· ❌频率副词
+· ❌表心理状态
+· ❌情态副词
+· ❌表伴随状态
+· ✔️表方式
+· ✔️表时间或地点
+· ❌表对象
+</code></pre>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[以]]></title>
         <id>https://chinese-wenyan.github.io/post/yi/</id>
