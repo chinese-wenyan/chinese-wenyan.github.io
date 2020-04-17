@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://chinese-wenyan.github.io</id>
     <title>文言字词积累</title>
-    <updated>2020-04-17T05:25:31.527Z</updated>
+    <updated>2020-04-17T05:26:26.315Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://chinese-wenyan.github.io"/>
     <link rel="self" href="https://chinese-wenyan.github.io/atom.xml"/>
@@ -22,16 +22,23 @@
 <!-- more -->
 <p>考试频率：<strong>极常考</strong></p>
 <ol>
-<li>介词   构成的介宾短语<strong>可后置</strong><br>
-1). 用，使用
+<li>
+<p>介词   构成的介宾短语<strong>可后置</strong><br>
+1). 用，使用</p>
 <blockquote>
-<p><strong>以</strong>刀劈狼首，又数刀毙之。       ——《狼》<br>
-2). 凭借<br>
-公亦<strong>以</strong>此自矜。    ——《卖油翁》<br>
-3). 把<br>
-屠惧，投<strong>以</strong>骨。   ——《狼》<br>
-4). 因为<br>
-此独<strong>以</strong>跛之故，父子相保。   ——《塞翁失马》</p>
+<p><strong>以</strong>刀劈狼首，又数刀毙之。       ——《狼》</p>
+</blockquote>
+<p>2). 凭借</p>
+<blockquote>
+<p>公亦<strong>以</strong>此自矜。    ——《卖油翁》</p>
+</blockquote>
+<p>3). 把</p>
+<blockquote>
+<p>屠惧，投<strong>以</strong>骨。   ——《狼》</p>
+</blockquote>
+<p>4). 因为</p>
+<blockquote>
+<p>此独<strong>以</strong>跛之故，父子相保。   ——《塞翁失马》</p>
 </blockquote>
 </li>
 </ol>
