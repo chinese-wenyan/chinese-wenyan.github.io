@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://chinese-wenyan.github.io</id>
     <title>文言字词积累</title>
-    <updated>2020-04-17T06:38:18.382Z</updated>
+    <updated>2020-04-25T03:07:32.716Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://chinese-wenyan.github.io"/>
     <link rel="self" href="https://chinese-wenyan.github.io/atom.xml"/>
@@ -10,6 +10,26 @@
     <logo>https://chinese-wenyan.github.io/images/avatar.png</logo>
     <icon>https://chinese-wenyan.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, 文言字词积累</rights>
+    <entry>
+        <title type="html"><![CDATA[卿]]></title>
+        <id>https://chinese-wenyan.github.io/post/qing/</id>
+        <link href="https://chinese-wenyan.github.io/post/qing/">
+        </link>
+        <updated>2020-04-25T03:01:26.000Z</updated>
+        <summary type="html"><![CDATA[<p>文言实词</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>文言实词</p>
+<!-- more -->
+<ol>
+<li>古代高官名、爵位名。在公之下，大夫之上。</li>
+<li>古代君对臣的爱称。朋友、夫妇间也以“卿”相称。
+<blockquote>
+<p>卿今当涂掌事，不可不学！  ——《孙权劝学》</p>
+</blockquote>
+</li>
+</ol>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[文言现象]]></title>
         <id>https://chinese-wenyan.github.io/post/wen-yan-xian-xiang/</id>
